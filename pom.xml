@@ -114,7 +114,7 @@
           </descriptorRefs>
           <archive>
             <manifest>
-              <mainClass>org.embriq.App</mainClass>
+              <mainClass>org.embriq.emchat.EMChat</mainClass>
             </manifest>
           </archive>
         </configuration>

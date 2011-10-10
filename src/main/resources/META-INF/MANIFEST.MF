@@ -4,4 +4,4 @@ Created-By: Apache Maven
 Built-By: rogerjakobsen
 Build-Jdk: 1.6.0_26
 Package: org.embriq
-Main-Class: org.embriq.emchat.App
+Main-Class: org.embriq.emchat.EMChat
